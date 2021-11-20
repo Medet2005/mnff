@@ -1,0 +1,2 @@
+# mnff
+git config --list
